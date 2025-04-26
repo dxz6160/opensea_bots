@@ -1,0 +1,1811 @@
+1744690334978	geckodriver	INFO	Listening on 127.0.0.1:48742
+1744690336455	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "52592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileR09eaS"
+[Parent 6721, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:6721): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.5903) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744690338059	Marionette	INFO	Marionette enabled
+1744690338134	Marionette	INFO	Listening on port 40348
+WebDriver BiDi listening on ws://127.0.0.1:52592
+Read port: 40348
+1744690338310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52592/devtools/browser/b74dc223-ff48-4c3a-b312-0ea0508976c9
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0."
+JavaScript error: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-7.js, line 1: TypeError: this.state is null
+1744690365476	Marionette	INFO	Stopped listening on port 40348
+1744690365567	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+[ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1744690365675	geckodriver	INFO	Listening on 127.0.0.1:39653
+1744690367562	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "40037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTYiU6N"
+[Parent 7377, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:7377): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.32495) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744690368901	Marionette	INFO	Marionette enabled
+1744690369007	Marionette	INFO	Listening on port 36476
+WebDriver BiDi listening on ws://127.0.0.1:40037
+Read port: 36476
+1744690369175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40037/devtools/browser/c34df542-3ff1-47d2-9faf-09ce810d4032
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0."
+JavaScript error: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-7.js, line 1: TypeError: this.state is null
+1744690388633	Marionette	INFO	Stopped listening on port 36476
+1744690388745	geckodriver	INFO	Listening on 127.0.0.1:60166
+1744690390642	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "60462" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletll2Ht"
+[Parent 7899, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:7899): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.357) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744690392024	Marionette	INFO	Marionette enabled
+1744690392145	Marionette	INFO	Listening on port 36345
+Read port: 36345
+WebDriver BiDi listening on ws://127.0.0.1:60462
+1744690392255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60462/devtools/browser/2b5d8afb-c64b-4188-9ee6-a9e1f14d2358
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744690530240	geckodriver	INFO	Listening on 127.0.0.1:58238
+1744690531592	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "53547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefNsy0F"
+[Parent 8524, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:8524): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.27375) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744690532883	Marionette	INFO	Marionette enabled
+1744690532953	Marionette	INFO	Listening on port 33755
+WebDriver BiDi listening on ws://127.0.0.1:53547
+Read port: 33755
+1744690533105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53547/devtools/browser/8d6a1826-b95a-45de-b1f0-ed1cb1603a6c
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1744690562890	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofilefNsy0F/thumbnails) because it does not exist
+1744690564680	Marionette	INFO	Stopped listening on port 33755
+JavaScript error: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-7.js, line 1: TypeError: this.state is null
+JavaScript error: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-7.js, line 1: TypeError: this.state is null
+console.error: (new Error("IndexedDB: main/crash-reports-ondemand getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1744690565566	geckodriver	INFO	Listening on 127.0.0.1:33193
+1744690567064	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "37259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSXMiRn"
+[Parent 9102, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:9102): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.35024) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744690568431	Marionette	INFO	Marionette enabled
+1744690568509	Marionette	INFO	Listening on port 32905
+WebDriver BiDi listening on ws://127.0.0.1:37259
+Read port: 32905
+1744690568674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37259/devtools/browser/20b64d04-e84e-45a2-a275-df450f23150f
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744690819791	geckodriver	INFO	Listening on 127.0.0.1:41998
+1744690821220	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "44868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIEoM3b"
+[Parent 10045, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:10045): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.37844) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744690822617	Marionette	INFO	Marionette enabled
+1744690822701	Marionette	INFO	Listening on port 38283
+WebDriver BiDi listening on ws://127.0.0.1:44868
+Read port: 38283
+1744690822857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44868/devtools/browser/d6840a3f-e085-4536-81a5-d6ef5a6f05c6
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0."
+1744690848215	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1744690848216	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+Extension error: uncaught exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/sentry-install.js :: [16]</e.prototype._wrapTimeFunction/a :: line 1"  data: no] moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/common-3.js 11
+[[Exception stack
+undefinedCurrent stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.sys.mjs:2770:39
+]]
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1744690852627	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofileIEoM3b/thumbnails) because it does not exist
+1744690854634	Marionette	INFO	Stopped listening on port 38283
+JavaScript error: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-7.js, line 1: TypeError: this.state is null
+JavaScript error: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-7.js, line 1: TypeError: this.state is null
+console.error: services.settings: 
+  main/nimbus-desktop-experiments Signature failed  Error: Shutdown, aborting read-only worker requests.
+console.error: services.settings: 
+  Message: Error: Shutdown, aborting read-only worker requests.
+  Stack:
+    _abortCancelableRequests@resource://services-settings/RemoteSettingsWorker.sys.mjs:136:19
+@resource://services-settings/RemoteSettingsWorker.sys.mjs:212:28
+trigger@resource://gre/modules/AsyncShutdown.sys.mjs:760:23
+_wait@resource://gre/modules/AsyncShutdown.sys.mjs:921:15
+wait@resource://gre/modules/AsyncShutdown.sys.mjs:902:34
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:559:10
+
+console.error: (new Error("IndexedDB: main/translations-models getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1744690855422	geckodriver	INFO	Listening on 127.0.0.1:60179
+1744690856854	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "44425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilea8kPMr"
+[Parent 10686, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:10686): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.34102) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744690858210	Marionette	INFO	Marionette enabled
+1744690858282	Marionette	INFO	Listening on port 39467
+WebDriver BiDi listening on ws://127.0.0.1:44425
+Read port: 39467
+1744690858456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44425/devtools/browser/bf0a6f6b-1f6a-481a-aab6-8355623cb22b
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744691441283	geckodriver	INFO	Listening on 127.0.0.1:39482
+1744691442639	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "33990" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenmp7T2"
+[Parent 14299, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:14299): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.29099) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744691443950	Marionette	INFO	Marionette enabled
+1744691444026	Marionette	INFO	Listening on port 34368
+WebDriver BiDi listening on ws://127.0.0.1:33990
+Read port: 34368
+1744691444186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33990/devtools/browser/47398623-9777-4869-aceb-28dd4dc6628e
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1744691457593	Marionette	INFO	Stopped listening on port 34368
+1744691457644	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1744691457701	geckodriver	INFO	Listening on 127.0.0.1:53280
+[ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1744691500983	geckodriver	INFO	Listening on 127.0.0.1:41509
+1744691502405	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "42673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileD1Erew"
+[Parent 14848, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:14848): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.48536) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744691503906	Marionette	INFO	Marionette enabled
+1744691503986	Marionette	INFO	Listening on port 37075
+WebDriver BiDi listening on ws://127.0.0.1:42673
+Read port: 37075
+1744691504141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42673/devtools/browser/da45bdf0-1647-4e61-b4ba-3b01c0d7f8f4
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1744691533925	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofileD1Erew/thumbnails) because it does not exist
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744691570418	geckodriver	INFO	Listening on 127.0.0.1:49630
+1744691571881	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "56503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilee71zsM"
+[Parent 15530, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:15530): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.36641) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744691573264	Marionette	INFO	Marionette enabled
+1744691573335	Marionette	INFO	Listening on port 38456
+WebDriver BiDi listening on ws://127.0.0.1:56503
+Read port: 38456
+1744691573492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56503/devtools/browser/50d995a5-e3ea-4dc4-a06e-50f0bb08a1c6
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1744691582312	Marionette	INFO	Stopped listening on port 38456
+1744691582368	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1744691582436	geckodriver	INFO	Listening on 127.0.0.1:42424
+[ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1744691610046	geckodriver	INFO	Listening on 127.0.0.1:44529
+1744691611472	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "55162" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepdI2rC"
+[Parent 16026, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:16026): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.29255) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744691612780	Marionette	INFO	Marionette enabled
+1744691612857	Marionette	INFO	Listening on port 38928
+WebDriver BiDi listening on ws://127.0.0.1:55162
+Read port: 38928
+1744691612947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55162/devtools/browser/388abdb1-1a47-4bd1-8e6f-9ead3480c5e5
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+1744691620816	Marionette	INFO	Stopped listening on port 38928
+1744691620924	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1744691620997	geckodriver	INFO	Listening on 127.0.0.1:59832
+[ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1744691622686	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "44924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEphyK6"
+[Parent 16476, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:16476): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1744691781915	geckodriver	INFO	Listening on 127.0.0.1:42325
+1744691783311	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "58115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7Gpl7e"
+[Parent 17133, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:17133): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.30389) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744691784628	Marionette	INFO	Marionette enabled
+1744691784702	Marionette	INFO	Listening on port 35409
+Read port: 35409
+WebDriver BiDi listening on ws://127.0.0.1:58115
+1744691784860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58115/devtools/browser/6a3ee4a7-2433-4c1e-97cc-0ed40ba3c036
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744691804528	geckodriver	INFO	Listening on 127.0.0.1:34094
+1744691805966	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "42735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilee0XwUe"
+[Parent 17593, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:17593): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.2977) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744691807278	Marionette	INFO	Marionette enabled
+1744691807348	Marionette	INFO	Listening on port 38920
+WebDriver BiDi listening on ws://127.0.0.1:42735
+Read port: 38920
+1744691807512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42735/devtools/browser/103dc980-6d45-40c1-81f6-75e5c45028cb
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1744691811444	Marionette	INFO	Stopped listening on port 38920
+1744691812058	geckodriver	INFO	Listening on 127.0.0.1:40207
+1744691813651	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "35261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9EdDGU"
+[Parent 18049, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:18049): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.30298) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744691814969	Marionette	INFO	Marionette enabled
+1744691815041	Marionette	INFO	Listening on port 45467
+WebDriver BiDi listening on ws://127.0.0.1:35261
+Read port: 45467
+1744691815201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35261/devtools/browser/fe0d9634-29bc-4e9c-a925-977337483132
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1744691818764	Marionette	INFO	Stopped listening on port 45467
+1744691819393	geckodriver	INFO	Listening on 127.0.0.1:60437
+1744691862387	geckodriver	INFO	Listening on 127.0.0.1:48304
+1744691863992	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "52251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOB16Vp"
+[Parent 18504, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:18504): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.29293) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744691865304	Marionette	INFO	Marionette enabled
+1744691865368	Marionette	INFO	Listening on port 40490
+WebDriver BiDi listening on ws://127.0.0.1:52251
+Read port: 40490
+1744691865458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52251/devtools/browser/5d5c3a6f-d717-42d2-aa03-b900f4f9d2b2
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744696097193	geckodriver	INFO	Listening on 127.0.0.1:34849
+1744696098768	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "58137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7DET3j"
+[Parent 30602, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:30602): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.49538) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744696100288	Marionette	INFO	Marionette enabled
+1744696100397	Marionette	INFO	Listening on port 36993
+WebDriver BiDi listening on ws://127.0.0.1:58137
+Read port: 36993
+1744696100594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58137/devtools/browser/57c0896b-cdd8-4b84-9cfa-437430787847
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1744696130333	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofile7DET3j/thumbnails) because it does not exist
+1744696134240	Marionette	INFO	Stopped listening on port 36993
+JavaScript error: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-7.js, line 1: TypeError: this.state is null
+JavaScript error: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-7.js, line 1: TypeError: this.state is null
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483658/layout53, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:450:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1745:21\nCanCloseWindow@chrome://browser/content/browser.js:7881:36\ncanClose@chrome://browser/content/browser.js:6389:12\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.sys.mjs:2980:22\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: (new Error("IndexedDB: main/quicksuggest-other getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1744696135583	geckodriver	INFO	Listening on 127.0.0.1:40914
+1744696137293	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "49517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezhRw7Y"
+[Parent 31304, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:31304): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.40594) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744696138722	Marionette	INFO	Marionette enabled
+1744696138799	Marionette	INFO	Listening on port 33814
+Read port: 33814
+WebDriver BiDi listening on ws://127.0.0.1:49517
+1744696138892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49517/devtools/browser/08f2222d-8df7-468f-8bb6-7731a3a3778d
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744696199420	geckodriver	INFO	Listening on 127.0.0.1:48157
+1744696201182	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "50592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQvBmo0"
+[Parent 31944, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:31944): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.53402) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744696202741	Marionette	INFO	Marionette enabled
+1744696202866	Marionette	INFO	Listening on port 39401
+WebDriver BiDi listening on ws://127.0.0.1:50592
+Read port: 39401
+1744696203071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50592/devtools/browser/5a6121ab-905e-4666-9ac4-f5f5f6d8cd00
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+1744696220711	geckodriver	INFO	Listening on 127.0.0.1:44428
+1744696222431	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "40500" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF1ehKB"
+[Parent 32529, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:32529): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=2.97064) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744696225436	Marionette	INFO	Marionette enabled
+1744696225577	Marionette	INFO	Listening on port 34356
+WebDriver BiDi listening on ws://127.0.0.1:40500
+Read port: 34356
+1744696226098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40500/devtools/browser/36bfbc28-007f-439f-8615-b4cbb5d6675c
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1744696232821	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofileQvBmo0/thumbnails) because it does not exist
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744696260725	geckodriver	INFO	Listening on 127.0.0.1:33394
+1744696262188	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "48255" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileC1kDLr"
+[Parent 33202, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:33202): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.4278) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744696263641	Marionette	INFO	Marionette enabled
+1744696263738	Marionette	INFO	Listening on port 36209
+WebDriver BiDi listening on ws://127.0.0.1:48255
+Read port: 36209
+1744696263924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48255/devtools/browser/ad69af32-8ffa-4aca-afb9-207d4fbbafee
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0."
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+1744696289608	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1744696289608	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+
+###!!! [Parent][DispatchAsyncMessage] Error: PCompositorBridge::Msg_PAPZCTreeManagerConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PCompositorBridge::Msg_PAPZConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1744696293684	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofileC1kDLr/thumbnails) because it does not exist
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-7.js, line 1: TypeError: this.state is null
+1744696358690	Marionette	INFO	Stopped listening on port 39401
+1744696586854	geckodriver	INFO	Listening on 127.0.0.1:34211
+1744696588223	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "49826" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0P2can"
+[Parent 35538, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:35538): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.30943) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744696589550	Marionette	INFO	Marionette enabled
+1744696589629	Marionette	INFO	Listening on port 32830
+Read port: 32830
+WebDriver BiDi listening on ws://127.0.0.1:49826
+1744696589715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49826/devtools/browser/73e0ed31-0263-4f66-a87a-16278fcc141a
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744696603362	geckodriver	INFO	Listening on 127.0.0.1:32877
+1744696604746	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "58804" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXxA752"
+[Parent 36017, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:36017): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.31279) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744696606074	Marionette	INFO	Marionette enabled
+1744696606151	Marionette	INFO	Listening on port 35171
+Read port: 35171
+WebDriver BiDi listening on ws://127.0.0.1:58804
+1744696606242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58804/devtools/browser/3e9a1013-3f33-4713-85c4-2c9c8fed1709
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1744696636100	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofileXxA752/thumbnails) because it does not exist
+1744696638169	Marionette	INFO	Stopped listening on port 35171
+JavaScript error: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-7.js, line 1: TypeError: this.state is null
+JavaScript error: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-7.js, line 1: TypeError: this.state is null
+console.error: services.settings: 
+  Message: StorageError: Storage error: AbortError: IndexedDB: main/password-rules list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:575:17
+
+console.error: (new Error("IndexedDB: main/tracking-protection-lists-ios getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1744696639064	geckodriver	INFO	Listening on 127.0.0.1:49266
+1744696661649	geckodriver	INFO	Listening on 127.0.0.1:42918
+1744696663012	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "45721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8YLAkf"
+[Parent 36553, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:36553): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.33016) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744696664359	Marionette	INFO	Marionette enabled
+1744696664432	Marionette	INFO	Listening on port 46164
+WebDriver BiDi listening on ws://127.0.0.1:45721
+Read port: 46164
+1744696664610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45721/devtools/browser/655fa5ba-8c2b-4e5d-8e92-727f23cb0cd9
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1744696694406	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofile8YLAkf/thumbnails) because it does not exist
+JavaScript error: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-7.js, line 1: TypeError: this.state is null
+1744696772776	Marionette	INFO	Stopped listening on port 46164
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 184))
+1744697393660	geckodriver	INFO	Listening on 127.0.0.1:58977
+1744697395057	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "38549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexqBz0Q"
+[Parent 38571, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:38571): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.28974) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744697396380	Marionette	INFO	Marionette enabled
+1744697396454	Marionette	INFO	Listening on port 43769
+WebDriver BiDi listening on ws://127.0.0.1:38549
+Read port: 43769
+1744697396614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38549/devtools/browser/57b66796-92d7-467f-949c-d5f148e67233
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.error: ({})
+console.error: ({})
+JavaScript error: https://metamask.io/_next/static/chunks/e2bd8461-fcee50d124c63cf8.js, line 1: Error: Minified React error #418; visit https://react.dev/errors/418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://metamask.io/_next/static/chunks/e2bd8461-fcee50d124c63cf8.js, line 1: Error: Minified React error #418; visit https://react.dev/errors/418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://metamask.io/_next/static/chunks/e2bd8461-fcee50d124c63cf8.js, line 1: Error: Minified React error #418; visit https://react.dev/errors/418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://metamask.io/_next/static/chunks/e2bd8461-fcee50d124c63cf8.js, line 1: Error: Minified React error #418; visit https://react.dev/errors/418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://metamask.io/_next/static/chunks/e2bd8461-fcee50d124c63cf8.js, line 1: Error: Minified React error #418; visit https://react.dev/errors/418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://metamask.io/_next/static/chunks/e2bd8461-fcee50d124c63cf8.js, line 1: Error: Minified React error #418; visit https://react.dev/errors/418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://metamask.io/_next/static/chunks/e2bd8461-fcee50d124c63cf8.js, line 1: Error: Minified React error #418; visit https://react.dev/errors/418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://metamask.io/_next/static/chunks/e2bd8461-fcee50d124c63cf8.js, line 1: Error: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+console.error: ({})
+console.error: ({})
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+1744697421900	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1744697421900	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1744697426397	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofilexqBz0Q/thumbnails) because it does not exist
+1744697438702	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1744697438702	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript error: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-7.js, line 1: TypeError: this.state is null
+1744697443917	Marionette	INFO	Stopped listening on port 43769
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 184))
+1744697462498	geckodriver	INFO	Listening on 127.0.0.1:53111
+1744697463922	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "60758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepjPP8D"
+[Parent 39387, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:39387): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.29086) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744697465227	Marionette	INFO	Marionette enabled
+1744697465312	Marionette	INFO	Listening on port 32908
+WebDriver BiDi listening on ws://127.0.0.1:60758
+Read port: 32908
+1744697465470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60758/devtools/browser/c46a2d0d-13b6-422b-89ca-bf39fb30b9ea
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1744697495293	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofilepjPP8D/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1744697497160	Marionette	INFO	Stopped listening on port 32908
+console.error: services.settings: 
+  Message: StorageError: Storage error: Error: IndexedDB: main/nimbus-desktop-experiments list() IndexedDB:  execute() The application is shutting down
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:575:17
+
+console.error: (new Error("IndexedDB: main/translations-models getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1744697547808	geckodriver	INFO	Listening on 127.0.0.1:54417
+1744697549256	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "42982" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4ZtEZw"
+[Parent 40099, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:40099): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.31149) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744697550580	Marionette	INFO	Marionette enabled
+1744697550655	Marionette	INFO	Listening on port 41683
+Read port: 41683
+WebDriver BiDi listening on ws://127.0.0.1:42982
+1744697550812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42982/devtools/browser/b8e352f6-232f-46f0-b5e1-a3a7f49dd17c
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744697588982	geckodriver	INFO	Listening on 127.0.0.1:39648
+1744697590438	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "43893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI522ec"
+[Parent 40792, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:40792): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.33576) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744697591793	Marionette	INFO	Marionette enabled
+1744697591874	Marionette	INFO	Listening on port 37415
+WebDriver BiDi listening on ws://127.0.0.1:43893
+Read port: 37415
+1744697592060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43893/devtools/browser/c19231fb-dde3-4abb-9b4f-5b12311ab6e5
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+1744697597058	Marionette	INFO	Stopped listening on port 37415
+tabs.onRemoved event fired after context unloaded.
+Extension error: uncaught exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/sentry-install.js :: [16]</e.prototype._wrapTimeFunction/a :: line 1"  data: no] moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/common-3.js 11
+[[Exception stack
+undefinedCurrent stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.sys.mjs:2770:39
+]]
+1744697597934	geckodriver	INFO	Listening on 127.0.0.1:54234
+1744697599896	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "53610" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesAvzv6"
+[Parent 41338, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:41338): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1744697615497	geckodriver	INFO	Listening on 127.0.0.1:41346
+1744697616980	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "34200" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletaWRdN"
+[Parent 41447, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:41447): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=1.55643) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744697618560	Marionette	INFO	Marionette enabled
+1744697618635	Marionette	INFO	Listening on port 35994
+WebDriver BiDi listening on ws://127.0.0.1:34200
+Read port: 35994
+1744697618815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34200/devtools/browser/3be469b2-5f96-4ba5-8981-a925942af1d8
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/background-3.js, line 1: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-0.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0/ui-9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://38d67efb-5720-4c2e-8025-c5208d4202a0."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1744697648575	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofiletaWRdN/thumbnails) because it does not exist
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744702865544	geckodriver	INFO	Listening on 127.0.0.1:34555
+1744702866976	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "54368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZcSViE"
+[Parent 44006, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:44006): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.279372) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744702867263	Marionette	INFO	Marionette enabled
+1744702867323	Marionette	INFO	Listening on port 46238
+WebDriver BiDi listening on ws://127.0.0.1:54368
+Read port: 46238
+1744702867454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54368/devtools/browser/ab1cf395-baa0-4bb1-8b9b-dae90dd07e36
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744702909321	geckodriver	INFO	Listening on 127.0.0.1:59034
+1744702910627	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "49616" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileORoZvT"
+[Parent 44645, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:44645): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.260597) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744702910910	Marionette	INFO	Marionette enabled
+1744702910963	Marionette	INFO	Listening on port 42172
+WebDriver BiDi listening on ws://127.0.0.1:49616
+Read port: 42172
+1744702911075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49616/devtools/browser/ab11bf51-f983-434c-afa8-bccb3ebf9f53
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1744702931447	Marionette	INFO	Stopped listening on port 42172
+1744702993616	geckodriver	INFO	Listening on 127.0.0.1:40063
+1744702995165	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "36377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJvPNvO"
+[Parent 45443, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:45443): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.28455) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744702995466	Marionette	INFO	Marionette enabled
+1744702995521	Marionette	INFO	Listening on port 43138
+WebDriver BiDi listening on ws://127.0.0.1:36377
+Read port: 43138
+1744702995664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36377/devtools/browser/3e716992-12cf-4b95-898d-a87ccdf2144a
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744703135707	geckodriver	INFO	Listening on 127.0.0.1:59502
+1744703136952	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "55113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerFr2QN"
+[Parent 46395, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:46395): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.254794) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744703137220	Marionette	INFO	Marionette enabled
+1744703137271	Marionette	INFO	Listening on port 33091
+WebDriver BiDi listening on ws://127.0.0.1:55113
+Read port: 33091
+1744703137390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55113/devtools/browser/6ac105fc-f231-4f55-b3d6-f906692fd683
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744703666057	geckodriver	INFO	Listening on 127.0.0.1:51276
+1744703668826	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "45924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBhmCyO"
+[Parent 2991, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:2991): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.54201) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744703669393	Marionette	INFO	Marionette enabled
+1744703669498	Marionette	INFO	Listening on port 44438
+WebDriver BiDi listening on ws://127.0.0.1:45924
+Read port: 44438
+1744703669686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45924/devtools/browser/eb02f0d5-fd50-4f63-abc0-eef252bf367a
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744703953798	geckodriver	INFO	Listening on 127.0.0.1:49311
+1744703954929	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "58580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMfpHNt"
+[Parent 4122, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:4122): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.369144) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744703955312	Marionette	INFO	Marionette enabled
+1744703955360	Marionette	INFO	Listening on port 41757
+Read port: 41757
+WebDriver BiDi listening on ws://127.0.0.1:58580
+1744703955392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58580/devtools/browser/ce007bb8-99b9-4667-9a97-9fc4b3c75c76
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744704073299	geckodriver	INFO	Listening on 127.0.0.1:54809
+1744704074412	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "40534" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletsOnG5"
+[Parent 4796, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:4796): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.250052) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744704074675	Marionette	INFO	Marionette enabled
+1744704074725	Marionette	INFO	Listening on port 46639
+WebDriver BiDi listening on ws://127.0.0.1:40534
+Read port: 46639
+1744704074885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40534/devtools/browser/6d60e516-e173-4059-908c-cff9225c70b4
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+1744704082014	Marionette	INFO	Stopped listening on port 46639
+1744704083046	geckodriver	INFO	Listening on 127.0.0.1:49874
+1744704084507	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "60909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0q7ues"
+[Parent 5369, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:5369): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.233585) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744704084765	Marionette	INFO	Marionette enabled
+1744704084816	Marionette	INFO	Listening on port 39838
+WebDriver BiDi listening on ws://127.0.0.1:60909
+Read port: 39838
+1744704084970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60909/devtools/browser/955df7ca-eb74-468c-accb-a95bf50fed4d
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744704133200	geckodriver	INFO	Listening on 127.0.0.1:51779
+1744704134713	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "48819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileD0L1so"
+[Parent 5852, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:5852): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.247138) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744704134975	Marionette	INFO	Marionette enabled
+1744704135022	Marionette	INFO	Listening on port 34176
+WebDriver BiDi listening on ws://127.0.0.1:48819
+Read port: 34176
+1744704135180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48819/devtools/browser/771e032a-a24a-4f65-9ff1-9ef7e416cdfd
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744704245899	geckodriver	INFO	Listening on 127.0.0.1:37565
+1744704247059	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "43245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepsQxJ6"
+[Parent 6617, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:6617): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.265864) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744704247340	Marionette	INFO	Marionette enabled
+1744704247391	Marionette	INFO	Listening on port 41857
+WebDriver BiDi listening on ws://127.0.0.1:43245
+Read port: 41857
+1744704247505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43245/devtools/browser/983d88bf-c05b-441a-b69b-102d630e63ab
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744704352141	geckodriver	INFO	Listening on 127.0.0.1:51722
+1744704353502	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "38708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7o0VuU"
+[Parent 7285, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:7285): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.249428) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744704353766	Marionette	INFO	Marionette enabled
+1744704353817	Marionette	INFO	Listening on port 46418
+WebDriver BiDi listening on ws://127.0.0.1:38708
+Read port: 46418
+1744704353933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38708/devtools/browser/ace23436-b247-4d8e-9def-0846538411a3
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+1744704361333	Marionette	INFO	Stopped listening on port 46418
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Failed to connect WebRenderBridgeChild. isParent=false (t=0.168449) [GFX1-]: Failed to connect WebRenderBridgeChild. isParent=false
+1744704362146	geckodriver	INFO	Listening on 127.0.0.1:50026
+1744704363417	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "38023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7XsBWd"
+[Parent 7875, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:7875): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.235485) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744704363677	Marionette	INFO	Marionette enabled
+1744704363726	Marionette	INFO	Listening on port 43805
+WebDriver BiDi listening on ws://127.0.0.1:38023
+Read port: 43805
+1744704363861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38023/devtools/browser/8b4d0830-21d8-41e0-90e1-f25d122509c5
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744704395864	geckodriver	INFO	Listening on 127.0.0.1:47795
+1744704396947	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "39686" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefZXSmZ"
+[Parent 8338, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:8338): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.241357) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744704397212	Marionette	INFO	Marionette enabled
+1744704397259	Marionette	INFO	Listening on port 38417
+WebDriver BiDi listening on ws://127.0.0.1:39686
+Read port: 38417
+1744704397414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39686/devtools/browser/73fdd8f4-8e1c-4042-acc5-3750ba4c48e1
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744704482702	geckodriver	INFO	Listening on 127.0.0.1:60608
+1744704484107	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "44437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQYDC4S"
+[Parent 9103, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:9103): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.248181) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744704484379	Marionette	INFO	Marionette enabled
+1744704484429	Marionette	INFO	Listening on port 45168
+WebDriver BiDi listening on ws://127.0.0.1:44437
+Read port: 45168
+1744704484545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44437/devtools/browser/a50dea1c-ae11-4cb8-bb35-0875060e3401
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+1744704492161	Marionette	INFO	Stopped listening on port 45168
+1744704492856	geckodriver	INFO	Listening on 127.0.0.1:49388
+1744704494045	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "55289" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeS4kLc"
+[Parent 9745, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:9745): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.244286) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744704494302	Marionette	INFO	Marionette enabled
+1744704494353	Marionette	INFO	Listening on port 37422
+WebDriver BiDi listening on ws://127.0.0.1:55289
+Read port: 37422
+1744704494524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55289/devtools/browser/97e2b833-4fa1-45d8-be22-f02c7bc55ba2
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744704560260	geckodriver	INFO	Listening on 127.0.0.1:39766
+1744704561395	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "46619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh8y3L1"
+[Parent 10226, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:10226): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.242274) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744704561653	Marionette	INFO	Marionette enabled
+1744704561701	Marionette	INFO	Listening on port 33068
+WebDriver BiDi listening on ws://127.0.0.1:46619
+Read port: 33068
+1744704561864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46619/devtools/browser/f3b1e71a-2b5c-4ddb-9209-0c3ba799d7a5
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744704750218	geckodriver	INFO	Listening on 127.0.0.1:35796
+1744704751550	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "48785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejkH3RV"
+[Parent 11089, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11089): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.262114) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744704751829	Marionette	INFO	Marionette enabled
+1744704751883	Marionette	INFO	Listening on port 46012
+WebDriver BiDi listening on ws://127.0.0.1:48785
+Read port: 46012
+1744704752040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48785/devtools/browser/b6a327ee-f496-408d-b609-88976fd41105
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744704770418	geckodriver	INFO	Listening on 127.0.0.1:47994
+1744704771567	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "43438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiles3b0Kl"
+[Parent 11697, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11697): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.254251) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744704771840	Marionette	INFO	Marionette enabled
+1744704771888	Marionette	INFO	Listening on port 44558
+WebDriver BiDi listening on ws://127.0.0.1:43438
+Read port: 44558
+1744704772080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43438/devtools/browser/d4f78095-6809-4197-aeb6-f1aace302b9f
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b."
+1744704804672	Marionette	INFO	Stopped listening on port 44558
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1744704805436	geckodriver	INFO	Listening on 127.0.0.1:52770
+1744704807041	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "36917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqvFLrd"
+[Parent 12459, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:12459): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.258743) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744704807314	Marionette	INFO	Marionette enabled
+1744704807363	Marionette	INFO	Listening on port 46422
+WebDriver BiDi listening on ws://127.0.0.1:36917
+Read port: 46422
+1744704807477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36917/devtools/browser/0db8558c-e4db-42aa-a8ef-caa17e1e0064
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744704825209	geckodriver	INFO	Listening on 127.0.0.1:34193
+1744704826386	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "42356" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecvSmrV"
+[Parent 12986, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:12986): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.264654) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744704826662	Marionette	INFO	Marionette enabled
+1744704826711	Marionette	INFO	Listening on port 37122
+WebDriver BiDi listening on ws://127.0.0.1:42356
+Read port: 37122
+1744704826826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42356/devtools/browser/f98ecb47-1f5d-4d8d-b3a3-413805292f83
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744708082268	geckodriver	INFO	Listening on 127.0.0.1:40762
+1744708083606	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "43255" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2l5pGa"
+[Parent 14432, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:14432): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.261733) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744708083882	Marionette	INFO	Marionette enabled
+1744708083931	Marionette	INFO	Listening on port 42760
+WebDriver BiDi listening on ws://127.0.0.1:43255
+Read port: 42760
+1744708084100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43255/devtools/browser/eed795a6-24f7-41f2-949e-c6d5ad10a724
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b."
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofile2l5pGa/thumbnails) because it does not exist
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744708170439	geckodriver	INFO	Listening on 127.0.0.1:59247
+1744708171686	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "53599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebCh5nF"
+[Parent 15261, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:15261): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.24379) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744708171943	Marionette	INFO	Marionette enabled
+1744708171992	Marionette	INFO	Listening on port 37611
+WebDriver BiDi listening on ws://127.0.0.1:53599
+Read port: 37611
+1744708172195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53599/devtools/browser/b95d94ab-cd4a-41eb-abe7-e1bba865f90b
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b."
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+1744708193514	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1744708193514	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744708966693	geckodriver	INFO	Listening on 127.0.0.1:57145
+1744708968060	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "47515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVIQ8dB"
+[Parent 16835, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:16835): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.323967) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744708968402	Marionette	INFO	Marionette enabled
+1744708968458	Marionette	INFO	Listening on port 45429
+WebDriver BiDi listening on ws://127.0.0.1:47515
+Read port: 45429
+1744708968571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:5050
+console.error: ({})
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:47515/devtools/browser/f142100a-b057-4de8-8758-53d3a28f42b4
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:5050
+JavaScript error: resource://gre/modules/ExtensionCommon.sys.mjs, line 538: Error: BaseContext attempted to load when extension is not allowed due to incognito settings.
+JavaScript error: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/scripts/sentry-install.js, line 12: Error: This script should only be loaded in a browser extension.
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744708990862	geckodriver	INFO	Listening on 127.0.0.1:41702
+1744708992072	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "44496" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel0i4zl"
+[Parent 17354, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:17354): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.251708) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744708992340	Marionette	INFO	Marionette enabled
+1744708992388	Marionette	INFO	Listening on port 44095
+WebDriver BiDi listening on ws://127.0.0.1:44496
+Read port: 44095
+1744708992520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:5050
+console.error: ({})
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:44496/devtools/browser/5de47f2f-66c0-426f-a817-460f4b3f064a
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:5050
+JavaScript error: resource://gre/modules/ExtensionCommon.sys.mjs, line 538: Error: BaseContext attempted to load when extension is not allowed due to incognito settings.
+JavaScript error: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/scripts/sentry-install.js, line 12: Error: This script should only be loaded in a browser extension.
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744709019927	geckodriver	INFO	Listening on 127.0.0.1:54783
+1744709021152	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "50404" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebdyzBL"
+[Parent 17905, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:17905): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.252581) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744709021420	Marionette	INFO	Marionette enabled
+1744709021469	Marionette	INFO	Listening on port 37608
+WebDriver BiDi listening on ws://127.0.0.1:50404
+Read port: 37608
+1744709021617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50404/devtools/browser/2fd074b9-6c9e-4a02-afef-d0a399f76930
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b."
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofilebdyzBL/thumbnails) because it does not exist
+1744709096519	Marionette	INFO	Stopped listening on port 37608
+1744709104537	geckodriver	INFO	Listening on 127.0.0.1:57955
+1744709105749	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "45752" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemmsAa1"
+[Parent 18525, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:18525): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.260751) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744709106025	Marionette	INFO	Marionette enabled
+1744709106074	Marionette	INFO	Listening on port 34712
+WebDriver BiDi listening on ws://127.0.0.1:45752
+Read port: 34712
+1744709106267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45752/devtools/browser/abeb26f2-ad11-465e-b785-65da6751bfd0
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b."
+console.error: ({})
+console.error: ({})
+[Child 18868, MediaDecoderStateMachine #1] WARNING: Decoder=7f031a5f0700 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builddir/build/BUILD/firefox-115.12.0/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofilemmsAa1/thumbnails) because it does not exist
+1744709149388	Marionette	INFO	Stopped listening on port 34712
+1744709150220	geckodriver	INFO	Listening on 127.0.0.1:57830
+1744709152551	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "35819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileM2wunY"
+1744709184695	geckodriver	INFO	Listening on 127.0.0.1:33159
+1744709185973	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "33281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0tnm02"
+[Parent 19414, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:19414): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.245832) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744709186234	Marionette	INFO	Marionette enabled
+1744709186286	Marionette	INFO	Listening on port 35660
+WebDriver BiDi listening on ws://127.0.0.1:33281
+Read port: 35660
+1744709186456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33281/devtools/browser/4cbfca45-85ab-4217-8552-814f80a31272
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b."
+console.error: ({})
+console.error: ({})
+[Child 19866, MediaDecoderStateMachine #1] WARNING: Decoder=7fc3872c6c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builddir/build/BUILD/firefox-115.12.0/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofile0tnm02/thumbnails) because it does not exist
+1744709216559	Marionette	INFO	Stopped listening on port 35660
+1744709217750	geckodriver	INFO	Listening on 127.0.0.1:35345
+1744709241049	geckodriver	INFO	Listening on 127.0.0.1:36947
+1744709242243	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "51257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUYOZ7p"
+[Parent 20252, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:20252): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.255552) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744709242520	Marionette	INFO	Marionette enabled
+1744709242568	Marionette	INFO	Listening on port 39999
+WebDriver BiDi listening on ws://127.0.0.1:51257
+Read port: 39999
+1744709242683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51257/devtools/browser/4597a73e-3746-4619-b021-f54a8ecfc5e7
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b."
+console.error: ({})
+console.error: ({})
+[Child 20622, MediaDecoderStateMachine #1] WARNING: Decoder=7f9984547800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builddir/build/BUILD/firefox-115.12.0/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofileUYOZ7p/thumbnails) because it does not exist
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+[Child 20892, MediaDecoderStateMachine #1] WARNING: Decoder=7f55e4671900 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builddir/build/BUILD/firefox-115.12.0/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+1744709363550	Marionette	INFO	Stopped listening on port 39999
+1744720068057	geckodriver	INFO	Listening on 127.0.0.1:42522
+1744720070704	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "56986" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebZptHI"
+[Parent 2910, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:2910): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.528849) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744720071268	Marionette	INFO	Marionette enabled
+1744720071371	Marionette	INFO	Listening on port 43468
+WebDriver BiDi listening on ws://127.0.0.1:56986
+Read port: 43468
+1744720071565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56986/devtools/browser/05d20623-690d-44e2-9bef-d8563cfac986
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b."
+1744720086741	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1744720086789	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/scripts/runtime-lavamoat.js, line 9362: Error: NetworkError when attempting to fetch resource.
+1744720086926	Marionette	INFO	Stopped listening on port 43468
+!!! error running onStopped callback: TypeError: callback is not a function
+1744720087848	geckodriver	INFO	Listening on 127.0.0.1:56599
+1744720089866	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "38468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiles5l3tv"
+[Parent 3592, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:3592): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.362024) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744720090248	Marionette	INFO	Marionette enabled
+1744720090306	Marionette	INFO	Listening on port 34533
+WebDriver BiDi listening on ws://127.0.0.1:38468
+Read port: 34533
+1744720090433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38468/devtools/browser/bb580e3e-687f-4edd-a1fd-088fec70c026
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744720156076	geckodriver	INFO	Listening on 127.0.0.1:54613
+1744720157296	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "35663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGDikNM"
+[Parent 4195, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:4195): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.412861) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744720157726	Marionette	INFO	Marionette enabled
+1744720157779	Marionette	INFO	Listening on port 39049
+WebDriver BiDi listening on ws://127.0.0.1:35663
+Read port: 39049
+1744720157908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35663/devtools/browser/f94a8c24-5ddd-4341-b0ac-3bc067885ddf
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b."
+1744720171118	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/scripts/runtime-lavamoat.js, line 9362: Error: NetworkError when attempting to fetch resource.
+JavaScript error: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/scripts/runtime-lavamoat.js, line 9362: Error: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofileGDikNM/thumbnails) because it does not exist
+1744720189988	Marionette	INFO	Stopped listening on port 39049
+1744721596900	geckodriver	INFO	Listening on 127.0.0.1:38268
+1744721598871	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "43533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCVGDN7"
+[Parent 5189, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:5189): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.304852) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744721599187	Marionette	INFO	Marionette enabled
+1744721599243	Marionette	INFO	Listening on port 43420
+WebDriver BiDi listening on ws://127.0.0.1:43533
+Read port: 43420
+1744721599382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43533/devtools/browser/0400260b-01cd-4ca2-a5a6-775648febdba
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b."
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofileCVGDN7/thumbnails) because it does not exist
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5567, MediaDecoderStateMachine #1] WARNING: Decoder=7f6dcf114c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builddir/build/BUILD/firefox-115.12.0/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.error: ({})
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744721944087	geckodriver	INFO	Listening on 127.0.0.1:34195
+1744721945376	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "53927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYHwQIK"
+[Parent 6121, Main Thread] WARNING: No marshaller for signature of signal 'PropertiesChanged': 'glib warning', file /builddir/build/BUILD/firefox-115.12.0/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:6121): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: libEGL missing methods for GL test (t=0.282268) [GFX1-]: glxtest: libEGL missing methods for GL test
+1744721945680	Marionette	INFO	Marionette enabled
+1744721945734	Marionette	INFO	Listening on port 33430
+WebDriver BiDi listening on ws://127.0.0.1:53927
+Read port: 33430
+1744721945876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53927/devtools/browser/8726c840-dad7-4aff-9dc0-5b79ba3fb04b
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b."
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/tmp/rust_mozprofileYHwQIK/thumbnails) because it does not exist
+console.error: ({})
+console.error: ({})
+[Child 6524, MediaDecoderStateMachine #1] WARNING: Decoder=7f36ded96000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builddir/build/BUILD/firefox-115.12.0/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+console.error: ({})
+console.error: ({})
+console.error: ({})
+[Child 6925, MediaDecoderStateMachine #1] WARNING: Decoder=7f4ad2cd5100 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builddir/build/BUILD/firefox-115.12.0/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript warning: moz-extension://2f7d8212-142f-46a3-ad84-494532d6c46b/ui-0.js, line 26: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1689: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://browser/content/parent/ext-windows.js, line 535: uncaught exception: undefined
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Flogin%3Freferrer%3D%252Faccount&title=Login+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Faccount&title=Your+Profile+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://os1-a9xwj.quill.run/js?url=https%3A%2F%2Fopensea.io%2Faccount&title=Your+Profile+%7C+OpenSea, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1744724003950	Marionette	INFO	Stopped listening on port 33430

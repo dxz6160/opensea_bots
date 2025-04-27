@@ -1,0 +1,1 @@
+ps -ef | grep '${PWD}/src/script/offerBotV3.py' | grep -v grep | awk '{print $2}' | xargs kill -9
